@@ -1,0 +1,14 @@
+view\OrdenacaoView$4.class
+business\LeitorArquivoTxt.class
+presenter\OrdenacaoPresenter.class
+view\OrdenacaoView$5.class
+ordenacao\BubbleSort.class
+view\OrdenacaoView.class
+presenter\OrdenacaoPresenter$1.class
+ordenacao\IMetodoOrdenacao.class
+view\OrdenacaoView$1.class
+init\init.class
+view\OrdenacaoView$2.class
+model\ValorFinal.class
+ordenacao\SelectionSort.class
+view\OrdenacaoView$3.class
